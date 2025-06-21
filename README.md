@@ -16,10 +16,10 @@ Exploratory Data Analysis (EDA) is a critical step in data analysis, helping us 
 4.	Results
 
 ### Libraries Used:
-•	Numpy
-•	Pandas
-•	Matplotlib
-•	Seaborn
+1.	Numpy
+2.	Pandas
+3.	Matplotlib
+4.	Seaborn
 •	Geopandas
 
 
