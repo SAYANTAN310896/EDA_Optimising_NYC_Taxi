@@ -20,6 +20,6 @@ Exploratory Data Analysis (EDA) is a critical step in data analysis, helping us 
 2.	Pandas
 3.	Matplotlib
 4.	Seaborn
-•	Geopandas
+5.	Geopandas
 
 
