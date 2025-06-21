@@ -8,7 +8,7 @@ Exploratory Data Analysis (EDA) is a critical step in data analysis, helping us 
 ### Technologies Used
 1.	Built using Python and it's data visualization libraries.
 2.	Jupyter nootbook
-3.	
+   
 ### Approch of Analysis
 1.	Data Cleaning
 2.	Univariate Analysis and Segemented Univariate Analysis
